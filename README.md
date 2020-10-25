@@ -1,2 +1,3 @@
 # wiadomo-jak-biec
-bez rozgrzewki, powoli z przerwami  na wode
+Bez rozgrzewki, powoli z przerwami  na wode.
+Raz w lewnie, raz w prawo, moża zataczać kręgi.
