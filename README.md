@@ -1,3 +1,4 @@
 # wiadomo-jak-biec
 Bez rozgrzewki, powoli z przerwami  na wode.
-Raz w lewnie, raz w prawo, moża zataczać kręgi.
+Raz w lewo, raz w prawo, można zataczać kręgi.
+Tylko szybko zanim przepowiednia się spełni.
